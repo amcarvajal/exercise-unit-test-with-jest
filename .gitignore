@@ -1,5 +1,7 @@
 # Ignore everything
-/*
+/node_modules
+/node_modules/*
+/*/settings.json
 
 !.gitignore
 !.gitpod.yml
